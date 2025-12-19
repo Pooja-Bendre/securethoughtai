@@ -14,7 +14,7 @@
 
 | 🚀 **Live Demo** | 📺 **Video Walkthrough** | 💻 **Source Code** |
 |:----------------:|:------------------------:|:------------------:|
-| [**Launch App (Vercel)**]( https://creativesyn-ai.vercel.app/ ) | [**Watch on YouTube**](https://youtu.be/rFT_JQ1EElg?si=CMkW1eDL8Z6TsoeL) | [**GitHub Repo**](https://github.com/Pooja-Bendre/securethoughtai) |
+| [**Launch App (Vercel)**]( https://securethoughtai.vercel.app/  ) | [**Watch on YouTube**](https://youtu.be/rFT_JQ1EElg?si=CMkW1eDL8Z6TsoeL) | [**GitHub Repo**](https://github.com/Pooja-Bendre/securethoughtai) |
 
 ---
 
